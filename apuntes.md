@@ -1,1 +1,2 @@
 # RGPD - Reglamento General de Protección de Datos
+El 25 de mayo de 2016 entro en vigor el Reglamento General de Protección de datos que sustituirá a la actual normativa vigente y que comenzará a aplicarse el 25 de mayo de 2018.
