@@ -1,0 +1,1 @@
+# RGPD - Reglamento General de Protección de Datos
